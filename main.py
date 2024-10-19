@@ -1,4 +1,4 @@
 def dodaj(x, y):
     return x + y
 
-print(dodaj(2,1))
+print(dodaj(3,1))
